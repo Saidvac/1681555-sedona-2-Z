@@ -2,7 +2,7 @@
 
 * Студент: [Саид Урусханов](https://up.htmlacademy.ru/htmlcss-individual/2/user/1681555).
 * Наставник: [Ярослав Шевцов](https://htmlacademy.ru/profile/redx)
-* Сайт: [Мой сайт Седонаы](https://saidvac.github.io/1681555-sedona-2-Z/)
+* Сайт: [Мой сайт Седона](https://saidvac.github.io/1681555-sedona-2-Z/)
 
 ---
 
